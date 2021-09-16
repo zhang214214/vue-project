@@ -1,6 +1,5 @@
 <template>
   <div class="hello">
-    <h1>{{ msg }}</h1>
     <p> 4EVERLAND 免费前端部署服务器 </p>
     <h1> 桃 宝 YYDS </h1>
   </div>
